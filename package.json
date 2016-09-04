@@ -1,8 +1,8 @@
 {
-  "name": "conduit-angularjs",
+  "name": "angular1.5 starter",
   "version": "1.0.0",
   "description": "Angular frontend for Conduit",
-  "author": "Thinkster",
+  "author": "Tunde Ganiy",
   "license": "MIT",
   "dependencies": {
     "angular": "^1.5.0-rc.2",
